@@ -1,0 +1,13 @@
+data,data_name,root_path,data_path,freq,flag
+traffic_hourly,traffic_hourly,/data1/dataset/Monash/,traffic_hourly,m,1
+australian_electricity_demand,australian_electricity_demand,/data1/dataset/Monash/,australian_electricity_demand,h,1
+electricity_hourly,electricity_hourly,/data1/dataset/Monash/,electricity_hourly,h,1
+oikolab_weather,oikolab_weather,/data1/dataset/Monash/,oikolab_weather,h,1
+traffic_hourly,traffic_hourly,/data1/dataset/Monash/,traffic_hourly,h,1
+custom,wind_farms_minutely_dataset_without_missing_values,/data1/dataset/Monash/,wind_farms_minutely_dataset_without_missing_values_processed.csv,m,1
+custom,20220210_smooth_window_16_new,/data1/dataset/ttms_d2/,20220210_smooth_window_16_new.csv,h,1
+custom,Application_new,/data1/dataset/ttms_d2/,Application_new.csv,h,1
+custom,bike_hour_new,/data1/dataset/ttms_d2/,bike_hour_new.csv,h,1
+custom,Service_new,/data1/dataset/ttms_d2/,Service_new.csv,h,1
+custom,Energy,/data1/dataset/time_mmd_datasets/Energy/,Energy.csv,h,1
+custom,Climate,/data1/dataset/time_mmd_datasets/Climate/,Climate.csv,h,1

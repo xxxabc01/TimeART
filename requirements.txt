@@ -1,0 +1,9 @@
+reformer-pytorch==1.4.4
+torch==2.4.1
+numpy==1.23.4
+pandas==2.1.2
+matplotlib==3.8.1
+scipy==1.11.3
+einops==0.8.0
+tqdm==4.66.5
+scikit-learn==1.3.2
