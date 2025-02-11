@@ -21,7 +21,8 @@ conda activate TimeART
 pip install -r requirements.txt
 ```
 
-- step 3: run run.sh
+- step 3: create the logs directory and run run.sh
 ```
+mkdir logs  
 sh run.sh
 ```
