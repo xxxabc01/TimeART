@@ -9,14 +9,19 @@ In this paper, we propose a pre-trained foundation model TimeART for multivariat
 
 ## Run
 
-here, we use python==3.9.12, and make sure you have the cuda is available.  
 
-- step 1: install all the python package, all package is list in requirements.txt
+- step 1: create a new conda environment  
+```
+conda create -n TimeART python==3.9.12  
+conda activate TimeART
+```
+
+- step 2: install all the python package, all package is list in requirements.txt
 ```
 pip install -r requirements.txt
 ```
 
-- step 2: run run.sh
+- step 3: run run.sh
 ```
 sh run.sh
 ```
